@@ -77,7 +77,7 @@ function moveBall1() {
   
     // two fixed x-axis coordinates (you will use these variable in step 3)
     var Xmin = 0;
-    var Xmax = 700;
+    var Xmax = window.innerWidth;
     var Ymin = 0;
     var Ymax = 800;
   
